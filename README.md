@@ -6,10 +6,10 @@ I'm familiar with [Scala](https://scala-lang.org), [Elixir](https://elixir-lang.
 ### a little stuff about me 🎁
 
 - Age: 18 🎂
-- Contact: sam 🌼#1234 on [Discord](https://discord.com), E-mail on request 📧
+- Contact: E-mail me or Discord (199217346911404032) 📧
 - Interests: Astronomy 🌌, Physics 💡 and Software development 💻
 - Pronouns: He/him 👨‍🚀
-- Currently learning: [PHP](https://php.net), [Sass](https://sass-lang.com) and HTML 📕
+- Currently learning: Nothing currently. 📕
 - Fun fact: There are around 10²¹ (a billion trillion) stars in the observable universe; you're one of them 🌟
 
 psst: check out [my ppl.moe page](https://ppl.moe/u/sam) ☄️
