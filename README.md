@@ -5,7 +5,7 @@ i'm a backend software developer and streamer with a focus on [discord](https://
 <br>
 free to check out my [portfolio](https://luau.gg) 💼
 <br>
-i am actively pursuing freelance opportunities; please get in contact with me over twitter ([@luauOW](https://twitter.com/luauOW)] if you're interested 📋
+i am actively pursuing freelance opportunities; please get in contact with me over twitter - [@luauOW](https://twitter.com/luauOW) - if you're interested 📋
 
 # some quick lil facts 🤯
 * there's approx. 10²⁴ stars in just the observable part of our universe; that's about a million times more than the amount of grains of sand on our planet ⌛
