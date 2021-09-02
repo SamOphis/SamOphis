@@ -1,7 +1,10 @@
 # heyo! ✨👋
 hi there! i'm sam, nice to meet you! 🚀
+<br>
 i'm a backend software developer and streamer with a focus on [discord](https://discord.com) bots 🤖
-feel free to check out my [portfolio](https://luau.gg) 💼
+<br>
+free to check out my [portfolio](https://luau.gg) 💼
+<br>
 i am actively pursuing freelance opportunities; please get in contact with me over twitter ([@luauOW](https://twitter.com/luauOW)] if you're interested 📋
 
 # some quick lil facts 🤯
