@@ -1,15 +1,10 @@
-### hello there 🌼
+# heyo! ✨👋
+hi there! i'm sam, nice to meet you! 🚀
+i'm a backend software developer and streamer with a focus on [discord](https://discord.com) bots 🤖
+feel free to check out my [portfolio](https://luau.gg) 💼
+i am actively pursuing freelance opportunities; please get in contact with me over twitter ([@luauOW](https://twitter.com/luauOW)] if you're interested 📋
 
-I'm a backend software developer from the UK. I currently work mostly with [Java](https://java.com/), but
-I'm familiar with [Scala](https://scala-lang.org), [Elixir](https://elixir-lang.org) and C too. Most of my repositories have been archived after quite a while of minimal maintenance.
-
-### a little stuff about me 🎁
-
-- Age: 18 🎂
-- Contact: E-mail me or Discord (199217346911404032) 📧
-- Interests: Astronomy 🌌, Physics 💡 and Software development 💻
-- Pronouns: He/him 👨‍🚀
-- Currently learning: Nothing currently. 📕
-- Fun fact: There are around 10²¹ (a billion trillion) stars in the observable universe; you're one of them 🌟
-
-psst: check out [my ppl.moe page](https://ppl.moe/u/sam) ☄️
+# some quick lil facts 🤯
+* there's approx. 10²⁴ stars in just the observable part of our universe; that's about a million times more than the amount of grains of sand on our planet ⌛
+* the milky way gets its name from its appearance (drops of milk in the sky). 🥛
+* there is a [planet](https://en.wikipedia.org/wiki/HD_189733_b) where molten glass rains sideways at seven times the speed of sound. 🔥
